@@ -1,4 +1,6 @@
 # School-Multilayer-Switch-3-Vlans-ACL-IP-routing
+<img width="1129" height="660" alt="image" src="https://github.com/user-attachments/assets/05441722-8beb-4842-9e4e-be663fedc6d3" />
+
 1. 核心总结 (大局观)
 这个网络的核心在于那台 Multilayer Switch (ML_school)。它不仅是交换机，也是路由器。
 角色： 它是所有 VLAN（教师、学生、访客）的网关 (Gateway)，也是通往互联网的桥梁。
